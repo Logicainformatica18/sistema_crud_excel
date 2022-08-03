@@ -1,0 +1,55 @@
+2021-04-02 21:35:17 info: XVBA Live Server extension is now active!
+2021-04-02 21:35:17 debug: Start Watch Excel Export VBA Files
+2021-04-02 21:35:17 debug: Start Run Macro Server
+2021-04-02 21:36:34 info: config.json File Created with Success!!!
+2021-04-02 21:36:34 info: gitignore file created with success
+2021-04-02 21:36:34 info: package.json File created with Success
+2021-04-02 21:36:34 info: Folder already exist: Logs Folder
+2021-04-02 21:36:34 info: Finish Create Xvba project folders
+2021-04-02 21:36:34 info: Finish Create Xvba project folders
+2021-04-02 21:36:35 info: Xlog Package created with success
+2021-04-02 21:36:35 info: Bootstrap XVBA
+2021-04-02 22:42:06 debug: Get Treeview Item
+2021-04-02 22:42:06 debug: Finish Create Communication with Office
+2021-04-02 22:42:06 debug: Exec Excel for Load Macro
+2021-04-02 22:42:45 debug: Get Treeview Item
+2021-04-02 22:42:45 debug: Finish Create Communication with Office
+2021-04-02 22:42:45 debug: Exec Excel for Load Macro
+2021-04-03 02:41:15 debug: Close Watch Excel Export VBA Files
+2021-04-04 16:04:36 info: XVBA Live Server extension is now active!
+2021-04-04 16:04:36 debug: Start Run Macro Server
+2021-04-04 16:04:36 debug: Start Watch Excel Export VBA Files
+2021-04-04 16:05:01 debug: Close Watch Excel Export VBA Files
+2021-04-07 17:56:42 info: XVBA Live Server extension is now active!
+2021-04-07 17:56:42 debug: Start Watch Excel Export VBA Files
+2021-04-07 17:56:42 debug: Start Run Macro Server
+2021-04-07 17:57:01 debug: Get Treeview Item
+2021-04-07 17:57:01 debug: Finish Create Communication with Office
+2021-04-07 17:57:01 debug: Exec Excel for Load Macro
+2021-04-07 17:57:33 debug: Get Treeview Item
+2021-04-07 17:57:33 debug: Finish Create Communication with Office
+2021-04-07 17:57:33 debug: Exec Excel for Load Macro
+2021-04-07 18:34:21 debug: Close Watch Excel Export VBA Files
+2021-04-07 19:26:06 info: XVBA Live Server extension is now active!
+2021-04-07 19:26:06 debug: Start Watch Excel Export VBA Files
+2021-04-07 19:26:06 debug: Start Run Macro Server
+2021-04-07 19:33:16 debug: Get Treeview Item
+2021-04-07 19:33:16 debug: Finish Create Communication with Office
+2021-04-07 19:33:17 debug: Exec Excel for Load Macro
+2021-04-07 19:57:52 info: Start Import VBA files
+2021-04-07 19:57:52 debug: Delete temp Files Success!
+2021-04-07 19:57:52 debug: Command Status: Command Run
+2021-04-07 19:57:52 debug: Finish Exported file from Vscode toExcel
+2021-04-07 19:58:06 info: Start Import VBA files
+2021-04-07 19:58:06 debug: Delete temp Files Success!
+2021-04-07 19:58:06 debug: Command Status: Command Run
+2021-04-07 19:58:07 debug: Finish Exported file from Vscode toExcel
+2021-04-07 19:58:17 info: Start Import VBA files
+2021-04-07 19:58:17 debug: Delete temp Files Success!
+2021-04-07 19:58:17 debug: Command Status: Command Run
+2021-04-07 19:58:17 debug: Finish Exported file from Vscode toExcel
+2021-04-07 21:42:56 debug: Close Watch Excel Export VBA Files
+2021-04-08 16:30:33 info: XVBA Live Server extension is now active!
+2021-04-08 16:30:33 debug: Start Watch Excel Export VBA Files
+2021-04-08 16:30:33 debug: Start Run Macro Server
+2021-04-08 16:31:22 debug: Close Watch Excel Export VBA Files
